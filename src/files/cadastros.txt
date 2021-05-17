@@ -1,0 +1,119 @@
+Cadastro de Formações das Pessoas Físicas
+Cadastro de estado
+Cadastro de áreas de atuação dos cargos
+Cadastro de horários
+Cadastro de afastamento
+Cadastro de plano de previdencia
+Cadastro de regiões
+Seleção Avançada
+Cadastro de configuração da DIRF
+Categoria do trabalhador
+Cadastro de aviso prévio
+Cadastro de Serviços de Autônomos
+Cadastro de cargo
+Cadastro de concursos
+Cadastro de ato
+Período aquisitivo de décimo terceiro
+Cadastro de configuração dos campos da RAIS
+Cadastro de cursos da pessoa física
+Cadastro de lotação física
+Motivos de Rescisão
+Cadastro de período aquisitivo de férias
+Cadastro de agência bancária
+Cadastro de movimentação de pessoal
+Cadastro de bairro
+Cadastro de município
+Cadastro de fonte de divulgação
+Cadastro de configuração da RAIS
+Cadastro de banco
+Cadastro de entidades
+Cadastro de vínculo empregatício
+Cadastro de nível salarial
+Cadastro de grupo funcional
+Cadastro de matrícula
+Cadastro de motivo de alteração de cargo
+Cadastro de Feriados
+Cadastro de configuração de lotação física
+Cadastro de áreas de atuação
+Cadastro de tipo de movimentação pessoal
+Cadastro de tipo de ato
+Cadastro de tipo de afastamento
+Cadastro de Plano de Cargos e Salários
+Cadastro de Formação
+Cadastro de organograma
+Cadastro de tipo de logradouro
+Cadastro de jornadas de trabalho
+Cadastro de motivo de alteração salarial
+Cadastro de campo adicional
+Classe e Referência do Nível Salarial
+Cadastro de rescisão
+Cadastro de configuração de organograma
+Cadastro de pessoa jurídica
+Cadastro de configuração de evento
+Cadastro de dependência
+Cadastro de país
+Classificação Brasileira de Ocupações
+Cadastro de logradouro
+Cadastro de Motivo de Consulta Médica
+Cadastro de natureza de texto jurídico
+Cadastro de pessoa física
+Cadastro de tipo de cargo
+Cadastro de lançamento de evento
+Cadastro de período de apuração
+Importação de marcações
+Ocorrências Apuradas
+Dias apurados
+Marcações Apuradas
+Cadastro de classificação de candidato para o concurso público ou processo seletivo
+Cadastro de procedimentos do aso
+Cadastro de Profissionais
+Cadastro de procedimentos médicos
+Cadastro de Laudos médicos
+Cadastro de períodos de licencça prêmio
+Cadastro de movimentos dos períodos de licencça prêmio
+Cadastro de empréstimos
+Cadastro de convocação do concurso público ou processo seletivo
+Cadastro de configuração de avaliações
+Cadastro de configuração dos planos de saúde
+Cadastro de diagnósticos de procedimentos médicos
+Cadastro de avaliação do concurso público ou processo seletivo
+Cadastro de benefício
+Cadastro de experiências anteriores
+Cadastro de períodos de adicional
+Cadastro de cursos
+Cadastro de edital do concurso público ou processo seletivo
+Código internacional de doenças
+Cadastro de de funções
+Cadastro de recursos dos candidato do concurso público ou processo seletivo
+Cadastro de tipo de comissão de avaliação de concurso público ou processo seletivo
+Cadastro de configuração de recrutamento do concurso público e processo seletivo
+Cadastro de Atestado
+Cadastro de cargo para o concurso público ou processo seletivo
+Cadastro de despesas dos planos de saúde
+Cadastro de classificação de cargo para o concurso público ou processo seletivo
+Cadastro de tipos de funções
+Cadastro de juntas médicas
+Cadastro de vaga para o concurso público ou processo seletivo
+Cadastro de averbações de experiência anterior
+Cadastro de candidato do concurso público ou processo seletivo
+Cadastro de rotas
+Cadastro de formulários do aso
+Cadastro de configurações de adicionais
+Cadastro de Tipo de Atestado
+Cadastro de averbações de matrículas
+Cadastro de comissão de avaliação de concurso público ou processo seletivo
+Cadastro dos locais de avaliação
+Cadastro de bolsas de estudo
+Cadastro de faixas de vales transporte
+Cadastro de formularios
+Cadastro de questões da avaliação para o cargo do o concurso público ou processo seletivo
+Cadastro de configurações de licenças prêmio
+Cadastro de concurso público ou processo seletivo
+Cadastro de configuração dos procedimentos médicos
+Cadastro de equipamentos e proteção
+Cadastro da CIPA
+Cadastro de solicitação de equipamentos e proteção
+Cadastro de ASO
+Cadastro de verbas para empréstimos
+Cadastro de motivos de restrição
+Cadastro de avaliação para o cargo do o concurso público ou processo seletivo
